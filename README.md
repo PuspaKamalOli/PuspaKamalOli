@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puspakamaloli&label=Profile%20views&color=0e75b6&style=flat" alt="puspakamaloli" /> </p>
 
-- 🔭 I’m studying **bachelors in information technology**
+-  I’m studying **bachelors in information technology**
 
-- 🌱 I’m currently learning **scikit learn for machine learning with python**
+-  I’m currently learning **scikit learn for machine learning with python**
 
 
 
-- 💬 Ask me about **HTML5, css3, mysql,  python,  numpy,  pandas,   matplotlib  and  scikit learn**
-- 👨‍💻 All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
+-  Ask me about **HTML5, css3, mysql,  python,  numpy,  pandas,   matplotlib  and  scikit learn**
+-  All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
 - Looking for more learning and training opportunities in machine learning with python to uplift my knowledge...
 
 
 - Hobbies: Football, Hiking and trekking, movies and series
-- 📫 How to reach me **olicodes12@gmail.com**
+-  How to reach me **olicodes12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
