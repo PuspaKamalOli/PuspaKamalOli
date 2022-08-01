@@ -1,7 +1,7 @@
 ![MasterHead](https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=en-be&hash=705D747C1F39E295D2BFB19901067B5B)
 <h1 align="center">Hello!!... 👋, I'm Mr.Puspa Kamal OLi</h1>
 <h3 align="center">
-  Interested In.. Machine Learning And Artificial Intelligence
+  Interested In.. And Learning Machine Learning And Artificial Intelligence
 </h3>
 <img
   align="right"
