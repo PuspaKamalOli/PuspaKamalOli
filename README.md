@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puspakamaloli&label=Profile%20views&color=0e75b6&style=flat" alt="puspakamaloli" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mr_oli" target="blank"><img src="https://img.shields.io/twitter/follow/mr_oli?logo=twitter&style=for-the-badge" alt="mr_oli" /></a> </p>
-
 - 🔭 I’m studying **bachelors in information technology**
 
 - 🌱 I’m currently learning **scikit learn for machine learning with python**
