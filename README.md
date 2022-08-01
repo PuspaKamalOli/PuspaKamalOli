@@ -1,6 +1,6 @@
 ![MasterHead](https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=en-be&hash=705D747C1F39E295D2BFB19901067B5B)
 <h1 align="center">Hello!!... 👋, I'm Mr.Puspa Kamal OLi</h1>
-<h3 align="center">A passionate machine learning and AI learner from Nepal</h3>
+<h3 align="center">Interested In.. And Learning Machine Learning And Artificial Intelligence</h3>
 <img align='right' src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="code" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puspakamaloli&label=Profile%20views&color=0e75b6&style=flat" alt="puspakamaloli" /> </p>
@@ -9,14 +9,17 @@
 
 - 🔭 I’m studying **bachelors in information technology**
 
-- 🌱 I’m currently learning **scikit learn and  machine learning with python**
+- 🌱 I’m currently learning **scikit learn for machine learning with python**
 
+
+
+- 💬 Ask me about **HTML5, css3, mysql,  python,  numpy,  pandas,   matplotlib  and  scikit learn**
 - 👨‍💻 All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
+- Looking for more learning and training opportunities in machine learning with python to uplift my knowledge...
 
-- 💬 Ask me about **HTML5,css3,mysql, python, numpy, pandas,  matplotlib and scikit learn**
 
-- 📫 How to reach me **olicodes12@gmail.com**
 - Hobbies: Football, Hiking and trekking, movies and series
+- 📫 How to reach me **olicodes12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
