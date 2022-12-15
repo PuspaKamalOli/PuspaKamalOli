@@ -103,6 +103,14 @@ movies and series
       height="40"
     />
   </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.versionmuseum.com/images/applications/microsoft-excel/microsoft-excel%5E2016%5Eexcel-logo-new.png"
+      alt=""
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
