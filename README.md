@@ -103,10 +103,10 @@ movies and series
       height="40"
     />
   </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img
       src="https://www.versionmuseum.com/images/applications/microsoft-excel/microsoft-excel%5E2016%5Eexcel-logo-new.png"
-      alt=""
+      alt="excel"
       width="40"
       height="40"
     />
