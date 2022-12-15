@@ -20,7 +20,7 @@
 - I’m studying **bachelors in information technology** 
 - I’m currently learning
 **scikit learn for machine learning with python** 
-- Ask me about **HTML5, css3,mysql, python, numpy, pandas, matplotlib and scikit learn**
+- Ask me about **HTML5, css3,Microsoft Excel,mysql, python, numpy, pandas, matplotlib, scikit learn and machine learning**
 - All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
 
 - Looking for more learning and training opportunities in machine learning with
