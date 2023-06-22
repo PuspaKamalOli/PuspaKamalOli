@@ -19,8 +19,8 @@ AI-Enthusiast
 
 - I’m studying **bachelors in information technology** 
 - I’m currently learning
-**deep learning with tensorflow 2.0** 
-- Ask me about **HTML5, css3, Microsoft Excel, MySQL, python, numpy, pandas, matplotlib, scikit-learn and machine learning**
+** Transformers** 
+- Ask me about Machine learning and deep learning**
 - All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
 
 - Looking for more learning and training opportunities in machine learning with
