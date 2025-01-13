@@ -19,7 +19,7 @@ AI-Enthusiast
 
 - I’m studying **bachelors in information technology** 
 - I’m currently learning
-** Transformers** 
+** Langchain** 
 - Ask me about Machine learning and deep learning**
 - All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
 
