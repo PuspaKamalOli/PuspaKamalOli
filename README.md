@@ -19,7 +19,7 @@ AI-Enthusiast
 
 - I’m studying **bachelors in information technology** 
 - I’m currently learning about 
-**AWS for AI ** 
+**Finance with AI ** 
 - Ask me about Artificial Intelligence**
 - All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
 
