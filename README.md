@@ -17,13 +17,13 @@ AI-Enthusiast
   />
 </p>
 
-- I’m studying **bachelors in information technology** 
-- I’m currently learning about 
+- Currently I am working **remotely** 
+- I’m currently working on
 **Finance with AI ** 
 - Ask me about Artificial Intelligence**
 - All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
 
-- Looking for more learning and training opportunities in machine learning with
+- Looking for more learning and opportunities in machine learning with
 python to uplift my knowledge... 
 - Hobbies: Football, Hiking and trekking,
 movies and series 
