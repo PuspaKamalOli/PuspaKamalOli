@@ -18,7 +18,7 @@ AI-Enthusiast
 </p>
 
 - Currently I am working **remotely** 
-- I’m currently working on
+- Working on
 **Finance with AI ** 
 - Ask me about Artificial Intelligence**
 - All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
