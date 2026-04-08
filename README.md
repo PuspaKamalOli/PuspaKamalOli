@@ -1,197 +1,184 @@
-![MasterHead](https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=en-be&hash=705D747C1F39E295D2BFB19901067B5B)
-<h1 align="center">Hello!!... 👋, I'm Mr.Puspa Kamal OLi</h1>
-<h3 align="center">
-AI-Enthusiast
-</h3>
-<img
-  align="right"
-  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
-  alt="code"
-  width="400"
-/>
+<div align="center">
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=puspakamaloli&label=Profile%20views&color=0e75b6&style=flat"
-    alt="puspakamaloli"
-  />
-</p>
+```
+██████╗ ██╗   ██╗███████╗██████╗  █████╗     ██╗  ██╗ █████╗ ███╗   ███╗ █████╗ ██╗      ██████╗ ██╗     ██╗
+██╔══██╗██║   ██║██╔════╝██╔══██╗██╔══██╗    ██║ ██╔╝██╔══██╗████╗ ████║██╔══██╗██║     ██╔═══██╗██║     ██║
+██████╔╝██║   ██║███████╗██████╔╝███████║    █████╔╝ ███████║██╔████╔██║███████║██║     ██║   ██║██║     ██║
+██╔═══╝ ██║   ██║╚════██║██╔═══╝ ██╔══██║    ██╔═██╗ ██╔══██║██║╚██╔╝██║██╔══██║██║     ██║   ██║██║     ██║
+██║     ╚██████╔╝███████║██║     ██║  ██║    ██║  ██╗██║  ██║██║ ╚═╝ ██║██║  ██║███████╗╚██████╔╝███████╗██║
+╚═╝      ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝╚═╝
+```
 
-- Currently I am working **remotely** 
-- Working on
-**Finance with AI ** 
-- Ask me about Artificial Intelligence**
-- All of my projects are available at [https://github.com/PuspaKamalOli?tab=repositories](https://github.com/PuspaKamalOli?tab=repositories)
+</div>
 
-- Looking for more learning and opportunities in machine learning with
-python to uplift my knowledge... 
-- Hobbies: Football, Hiking and trekking,
-movies and series 
-- How to reach me **olicodes12@gmail.com**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;NLP+%7C+Computer+Vision+%7C+Generative+AI;Financial+AI+%26+Algorithmic+Trading;Building+Production-Ready+ML+Systems" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mr_oli12" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="mr_oli"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.linkedin.com/in/puspa-kamal-oli-a7a0b9227/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BKz8r5CJrQt%2BE%2FlgSMPL0Fw%3D%3D"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="puspa kamal oli"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.facebook.com/profile.php?id=100055777807875"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="anuragole"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/anuragolee" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="anuragolee"
-      height="30"
-      width="40"
-  /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
+<div align="center">
+  <a href="https://www.linkedin.com/in/puspa-kamal-oli-4b4994247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
+  <a href="mailto:olicodes12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
+  <a href="https://github.com/PuspaKamalOli">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.versionmuseum.com/images/applications/microsoft-excel/microsoft-excel%5E2016%5Eexcel-logo-new.png"
-      alt="excel"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=puspakamaloli&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="profile views" />
+</div>
 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png"
-      alt="numpy"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg"
-      alt="matplotlib"
-      width="40"
-      height="40"
-    />
-  </a>
+## 👨‍💻 About Me
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+```python
+class PuspaKamalOli:
+    def __init__(self):
+        self.role         = "Machine Learning Engineer"
+        self.location     = "Banasthali, Kathmandu, Nepal 🇳🇵"
+        self.education    = "B.IT @ Tribhuvan University, ASCOL (2022–2026)"
+        self.experience   = ["Optionomics (Oct 2024 – Present)", "IceBrkr (Mar–Sep 2024)"]
+        self.focus_areas  = ["NLP", "Computer Vision", "Generative AI", "Financial AI", "MLOps"]
+        self.languages    = {"Nepali": "Native", "English": "Fluent", "Hindi": "Fluent"}
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=puspakamaloli&show_icons=true&locale=en&layout=compact"
-    alt="puspakamaloli"
-  />
-</p>
+    def current_work(self):
+        return """
+        → Building AI-powered stock prediction & options trading systems @ Optionomics
+        → Time series forecasting, real-time market data pipelines, inference APIs
+        → Passionate about Generative AI, Reinforcement Learning & FinTech
+        """
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=puspakamaloli&show_icons=true&locale=en"
-    alt="puspakamaloli"
-  />
-</p>
+    def hobbies(self):
+        return ["⚽ Football", "🥾 Hiking & Trekking", "♟️ Chess", "🎌 Anime", "📺 Series"]
+```
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=puspakamaloli&"
-    alt="puspakamaloli"
-  />
-</p>
+---
+
+## 🛠️ Tech Stack
+
+### Core ML / AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Data & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [Techhub — Agentic AI E-Commerce Platform](https://github.com/PuspaKamalOli/techhub-ecommerce)
+> Full-stack e-commerce platform with an agentic AI chatbot at its core
+
+- **ReAct AI Chatbot** built with LangChain AgentExecutor + 13 custom Django ORM tools enabling autonomous multi-step operations
+- **Semantic Search** powered by pgvector + HuggingFace embeddings + FAISS-based RAG
+- **Smart Recommendations** via Bayesian + time-decay scoring engine: `score / (age_in_days + 2)^1.5`
+- **Redis** persistent memory, JWT/RBAC auth, Stripe payments, Human-in-the-Loop checkout
+
+`LangChain` `Django` `pgvector` `FAISS` `Redis` `Stripe` `Docker`
+
+---
+
+### 🎙️ [Automatic Speech Recognition & Emotion Classification](https://github.com/PuspaKamalOli/ASR_WHISPER)
+> Fine-tuned Whisper + deep learning emotion classifier
+
+- Fine-tuned **OpenAI Whisper** on SpeechOcean762 dataset for improved ASR accuracy
+- Built speech **emotion classification** model achieving **77% test accuracy**
+- Applied advanced NLP techniques and feature engineering on audio data
+
+`Whisper` `PyTorch` `NLP` `Deep Learning` `Audio Processing`
+
+---
+
+### 🎭 [Real-Time Mask Detection](https://github.com/PuspaKamalOli/deep-learning-project-with-tensorflow/blob/main/mask_detection.ipynb)
+> YOLOv8-powered real-time computer vision system
+
+- Real-time mask detection using **YOLOv8** with TensorFlow and OpenCV
+- Optimized for efficient inference in production environments
+
+`YOLOv8` `TensorFlow` `OpenCV` `Computer Vision`
+
+---
+
+## 💼 Work Experience
+
+| Period | Company | Role |
+|--------|---------|------|
+| Oct 2024 – Present | **Optionomics** | Machine Learning Engineer |
+| Mar 2024 – Sep 2024 | **IceBrkr** | Machine Learning Engineer |
+
+**@ Optionomics:** AI-powered stock prediction, time series forecasting, real-time market data pipelines, options trading systems, FastAPI + Docker + AWS deployment.
+
+**@ IceBrkr:** ASR model fine-tuning (Whisper), speech emotion classification, NLP feature engineering, production ML integration.
+
+---
+
+## 🎓 Certifications
+
+| Certificate | Platform |
+|------------|----------|
+| [Unsupervised Deep Learning](https://www.udemy.com/certificate/UC-f0161fa7-1c93-45f5-8d2c-f91e35245ddc/) | Udemy |
+| [Recommendation Systems](https://www.udemy.com/certificate/UC-3d62f5dd-6040-4f25-a1a1-2a54a829667b/) | Udemy |
+| [Machine Learning](https://www.sololearn.com/certificates/CT-WLAXCFOZ) | SoloLearn |
+| [Python](https://www.sololearn.com/en/certificates/CT-IOUMEEKL) | SoloLearn |
+| [SQL](https://www.sololearn.com/en/certificates/CT-ZVQDR01K) | SoloLearn |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=puspakamaloli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspakamaloli&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspakamaloli&theme=tokyonight" alt="streak stats"/>
+</div>
+
+---
+
+## 🧠 Areas of Expertise
+
+```
+NLP & LLMs          ████████████████████  RAG, Fine-tuning, Transformers, Agents
+Computer Vision     ████████████████░░░░  YOLO, CNNs, ResNet, Transfer Learning
+Financial AI        ████████████████████  Time Series, Options, Algo Trading, Greeks
+Generative AI       ███████████████░░░░░  LangChain, Prompt Eng, Vector DBs, Embeddings
+MLOps               ████████████████░░░░  Docker, AWS, CI/CD, MLflow, Airflow, Kafka
+Deep Learning       ████████████████░░░░  ANN, RNN, LSTM, Autoencoders, VAE
+```
+
+---
+
+<div align="center">
+  <i>"Building AI systems that turn data into decisions."</i>
+  <br/><br/>
+  <b>📫 Reach me at: olicodes12@gmail.com | 📍 Kathmandu, Nepal</b>
+</div>
