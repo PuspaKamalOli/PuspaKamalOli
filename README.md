@@ -126,7 +126,7 @@ class PuspaKamalOli:
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 | Period | Company | Role |
 |--------|---------|------|
@@ -139,7 +139,7 @@ class PuspaKamalOli:
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 | Certificate | Platform |
 |------------|----------|
@@ -151,7 +151,7 @@ class PuspaKamalOli:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=puspakamaloli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -164,7 +164,7 @@ class PuspaKamalOli:
 
 ---
 
-## 🧠 Areas of Expertise
+## Areas of Expertise
 
 ```
 NLP & LLMs          ████████████████████  RAG, Fine-tuning, Transformers, Agents
@@ -180,5 +180,5 @@ Deep Learning       ████████████████░░░░
 <div align="center">
   <i>"Building AI systems that turn data into decisions."</i>
   <br/><br/>
-  <b>📫 Reach me at: olicodes12@gmail.com | 📍 Kathmandu, Nepal</b>
+  <b> Reach me at: olicodes12@gmail.com |  Kathmandu, Nepal</b>
 </div>
