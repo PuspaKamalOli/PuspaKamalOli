@@ -32,7 +32,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class PuspaKamalOli:
@@ -57,7 +57,7 @@ class PuspaKamalOli:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core ML / AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -91,7 +91,7 @@ class PuspaKamalOli:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🛒 [Techhub — Agentic AI E-Commerce Platform](https://github.com/PuspaKamalOli/techhub-ecommerce)
 > Full-stack e-commerce platform with an agentic AI chatbot at its core
