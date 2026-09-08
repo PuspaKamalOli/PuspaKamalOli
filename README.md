@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a Machine Learning Engineer at **Optionomics**, where I own an options and equity forecasting platform running **6 models in production** — implied volatility, an option-alert classifier, an LSTM percent-gain forecaster, realized volatility, a market-regime classifier, and support/resistance detection. My work spans the full lifecycle: feature engineering from options Greeks and order flow, MLflow-based versioning and gated promotion, and FastAPI/Docker/AWS deployment.
+I'm a Machine Learning Engineer at **Optionomics**, where I own an options and equity forecasting platform running **6 models in production** - implied volatility, an option alert classifier, an LSTM percent-gain forecaster, realized volatility, a market-regime classifier, and support/resistance detection. My work spans the full lifecycle: feature engineering from options Greeks and order flow, MLflow-based versioning and gated promotion, and FastAPI/Docker/AWS deployment.
 
 Before that, at **IceBrkr**, I fine-tuned Whisper for speech recognition and emotion classification, and built recommendation and RAG systems.
 
@@ -41,7 +41,7 @@ that's the kind of engineering I care about most.
 <td width="33%" valign="top">
 
 ### 📈 Financial ML
-Time series forecasting, volatility modeling, options analytics, backtesting, market regime classification — the systems behind real trading decisions.
+Time series forecasting, volatility modeling, options analytics, backtesting, market regime classification - the systems behind real trading decisions.
 
 </td>
 <td width="33%" valign="top">
