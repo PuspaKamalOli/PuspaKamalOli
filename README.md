@@ -113,8 +113,8 @@ YOLOv8-based real-time detection system optimized for production inference with 
 
 | Period | Role | Highlights |
 |---|---|---|
-| **Oct 2024 – Present** | ML Engineer @ **Optionomics** | 6 production models · MLflow gated promotion · ~68% out-of-sample directional accuracy · FastAPI/Docker/AWS |
-| **Mar 2024 – Sep 2024** | ML Engineer @ **IceBrkr** | Recommendation systems · RAG pipelines · Sentiment analysis |
+| **Feb 2025 – Present** | ML Engineer @ **Optionomics** | 6 production models · MLflow gated promotion · ~68% out-of-sample directional accuracy · FastAPI/Docker/AWS |
+| **Mar 2024 – DEC 2024** | ML Engineer @ **IceBrkr** | Recommendation systems · RAG pipelines · Sentiment analysis |
 
 ---
 
